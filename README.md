@@ -1,2 +1,2 @@
-# clusterduck
+# ClusterDuck
 DuckDB in a Cluster
